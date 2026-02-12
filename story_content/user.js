@@ -45,7 +45,7 @@ fetch('https://api.heygen.com/v1/video.generate', {
         "video_setting": {
             "ratio": "16:9"
         },
-        "avatar_id": "e20b9399b031470fa45604189e367ad3", // You can find IDs in HeyGen
+        "avatar_id": "b6c94c07-e4e5-483e-8bec-e838d5910b7d", // You can find IDs in HeyGen
         "input_text": fullScript
     })
 })
